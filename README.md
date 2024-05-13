@@ -13,3 +13,11 @@ Splash screens serve several purposes:
 
 
 While splash screens can enhance the user experience by providing a polished and professional appearance, it's important to use them judiciously. Overly long splash screens or ones that provide little value to the user experience can frustrate users and detract from the overall usability of the application. Therefore, it's essential to design splash screens carefully, keeping them brief, visually appealing, and informative.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Title: Implementing a Splash Screen in Android: A GitHub Guide
+
+✅ Introduction:
+
+Brief explanation of what a splash screen is and its importance in providing a smooth user experience.
+Introduction to the purpose of the guide: to demonstrate how to implement a splash screen in an Android application using GitHub as a collaborative platform.

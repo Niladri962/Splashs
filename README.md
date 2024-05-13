@@ -21,3 +21,16 @@ Title: Implementing a Splash Screen in Android: A GitHub Guide
 
 Brief explanation of what a splash screen is and its importance in providing a smooth user experience.
 Introduction to the purpose of the guide: to demonstrate how to implement a splash screen in an Android application using GitHub as a collaborative platform.
+
+1. Understanding Splash Screens:
+
+Explanation of what a splash screen is and why it's used.
+Benefits of having a splash screen in an Android application.
+Considerations for designing an effective splash screen.
+
+
+2. Setting Up the Android Project:
+
+Creating a new Android project in Android Studio.
+Setting up the project structure and dependencies.
+Initializing a GitHub repository for the project.

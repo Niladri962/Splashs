@@ -34,3 +34,10 @@ Considerations for designing an effective splash screen.
 Creating a new Android project in Android Studio.
 Setting up the project structure and dependencies.
 Initializing a GitHub repository for the project.
+
+
+3. Designing the Splash Screen Layout:
+
+Creating the layout XML file for the splash screen.
+Adding necessary resources (images, colors, etc.) to the project.
+Styling the splash screen layout for a visually appealing presentation.

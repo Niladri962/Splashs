@@ -1,0 +1,1 @@
+A splash screen is a graphical control element consisting of a window containing an image, logo, or animation that appears on the screen momentarily when a software program, mobile application, or video game is launched. Its primary purpose is to provide visual feedback to the user that the application is loading or initializing.

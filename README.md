@@ -41,3 +41,10 @@ Initializing a GitHub repository for the project.
 Creating the layout XML file for the splash screen.
 Adding necessary resources (images, colors, etc.) to the project.
 Styling the splash screen layout for a visually appealing presentation.
+
+
+4. Implementing Splash Screen Logic:
+
+Writing the Java/Kotlin code to control the behavior of the splash screen.
+Setting up timers or delays for displaying the splash screen.
+Transitioning to the main activity after the splash screen duration.

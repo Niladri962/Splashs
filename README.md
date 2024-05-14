@@ -56,4 +56,10 @@ Testing the splash screen functionality on various Android devices and screen si
 Debugging common issues such as screen flickering, slow loading, etc.
 Gathering feedback from users and iterating on the design and implementation as needed.
 
+6. Collaborating on GitHub:
+
+Pushing the project code to GitHub.
+Collaborating with other developers through pull requests and code reviews.
+Managing issues and feature requests from the GitHub repository.
+
 

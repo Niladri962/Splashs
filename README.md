@@ -48,3 +48,12 @@ Styling the splash screen layout for a visually appealing presentation.
 Writing the Java/Kotlin code to control the behavior of the splash screen.
 Setting up timers or delays for displaying the splash screen.
 Transitioning to the main activity after the splash screen duration.
+
+
+5. Testing and Debugging:
+
+Testing the splash screen functionality on various Android devices and screen sizes.
+Debugging common issues such as screen flickering, slow loading, etc.
+Gathering feedback from users and iterating on the design and implementation as needed.
+
+
